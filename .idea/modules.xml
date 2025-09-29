@@ -3,6 +3,8 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/String/String.iml" filepath="$PROJECT_DIR$/String/String.iml" />
+      <module fileurl="file://$PROJECT_DIR$/codeio/codeio.iml" filepath="$PROJECT_DIR$/codeio/codeio.iml" />
+      <module fileurl="file://$PROJECT_DIR$/codeio/containsDuplicate/containsDuplicate.iml" filepath="$PROJECT_DIR$/codeio/containsDuplicate/containsDuplicate.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/leetcode.iml" filepath="$PROJECT_DIR$/.idea/leetcode.iml" />
     </modules>
   </component>
